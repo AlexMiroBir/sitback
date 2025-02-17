@@ -1,0 +1,12 @@
+{
+  "MainPage": {
+    "about": "Sobre",
+    "home": "Inicio"
+  },
+  "HomePage": {
+    "content": "¡Bienvenida!"
+  },
+  "AboutPage": {
+    "content": "Esto es sobre nosotros"
+  }
+}

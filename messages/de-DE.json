@@ -1,0 +1,12 @@
+{
+  "MainPage": {
+    "about": "Um",
+    "home": "Heim"
+  },
+  "HomePage": {
+    "content": "Willkommen zu Hause!"
+  },
+  "AboutPage": {
+    "content": "Hier geht es um uns!"
+  }
+}
