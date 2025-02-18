@@ -8,5 +8,9 @@
   },
   "AboutPage": {
     "content": "Esto es sobre nosotros"
+  },
+  "NotFoundPage": {
+    "content": "¡Página no encontrada!",
+    "goBack": "Volver a Inicio"
   }
 }
